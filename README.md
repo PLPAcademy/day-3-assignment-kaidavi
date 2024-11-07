@@ -133,3 +133,4 @@ C) Run mysqladmin start in the terminal
 D) Restart your computer to activate MySQL
 
 B
+
